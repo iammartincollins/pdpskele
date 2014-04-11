@@ -1,0 +1,36 @@
+{
+  "name": "skele",
+  "version": "0.0.0",
+  "authors": [
+    "Martin Collins <hi@iammartincollins.com>"
+  ],
+  "description": "skeleton for pdp1",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "skeleton",
+    "pdp",
+    "angular"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.2",
+  },
+  "dependencies": {
+    "less": "~1.7.0",
+    "angular": "~1.2.16",
+    "jquery": "~2.1.0",
+    "bootstrap": "~3.1.1",
+    "moment": "~2.5.1"
+  }
+}
